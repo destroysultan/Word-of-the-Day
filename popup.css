@@ -1,0 +1,90 @@
+body {  
+    background: #f2f5f6;
+    min-width: 500px;
+    min-height:200px;
+    width: 500px;
+    overflow-x: hidden;
+    padding-left: 8px;
+    margin: 5px;
+    -webkit-border-radius: 4px;
+    margin: 0 !important;
+    -webkit-padding-start: 10; 
+    font-family: Palatino, Georgia, 'Times New Roman', serif;
+    font-size: 0.975em;
+    border-style: solid;
+	border-width: 1px;
+	border-color: #9999CC;
+
+}
+.text {
+	color:#999;
+	padding-left: 10px;
+}
+.word {
+	text-align: center;
+	padding-left: 0px;
+	padding-top: 0px;
+	color: #3333CC;
+	font-size: 16px;
+}
+
+#wordBox {
+	background-color: white;
+	width: 506px;
+	height: 50px;
+	padding: 10px 0;
+	padding-bottom: 20px;
+	margin-left: -7px;
+}
+
+#wrap {
+	border-left: solid;
+	border-left-color: white;
+	border-left-width: 10px;
+	border-right: solid;
+	border-right-color: white;
+	border-right-width: 10px;
+	margin-left: -7px;
+}
+	  
+#definition {
+    font-weight: bold;
+	font-size: 16px;
+  	padding-left: 25px;
+  	padding-right: 25px;
+}
+
+#examples {
+	color: #666;
+	padding-right: 20px;
+}
+
+hr {
+	height: 1px;
+	margin: 0px; 
+	border: none;
+	background-color: #CCC; 
+	font-size: 1px; 
+	color: #CCC;
+	margin-right: none;	
+}
+
+#footer 	{
+	width: 487px;
+	height: 11px;
+	padding: 10px 0;
+	font-size:11px;
+	margin-left: none;
+	font-weight: bold;
+	border-top: solid 2px #6666CC;
+	text-align:center;
+	line-height: 11px;
+	background-color: white;
+	}
+	#footer a 	{
+		color: #6666CC;
+		text-decoration:none;
+		}
+		#footer a:hover	{
+			color: #3333CC;
+			}
